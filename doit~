@@ -1,0 +1,2 @@
+rails s -b ec2-52-91-99-253.compute-1.amazonaws.com
+
